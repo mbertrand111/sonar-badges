@@ -1,6 +1,6 @@
 ﻿{
     "label":  "Security Hotspots (New Code)",
-    "message":  "",
+    "message":  "0",
     "schemaVersion":  1,
-    "color":  "green"
+    "color":  "red"
 }
