@@ -1,6 +1,6 @@
 ﻿{
     "label":  "Quality Gate",
-    "message":  "OK",
+    "message":  "ERROR",
     "schemaVersion":  1,
-    "color":  "green"
+    "color":  "red"
 }
